@@ -1,2 +1,2 @@
-platform :ios, "5.0"
-pod "AFNetworking"
+platform :ios, "7.0"
+pod "AFOAuth1Client"
